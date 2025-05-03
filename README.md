@@ -28,7 +28,7 @@ We use the **Pima Indians Diabetes Dataset**:
 - ✅ Logistic Regression & SVM Model Training  
 - ✅ Accuracy & Confusion Matrix Reporting  
 - ✅ Simple GUI for live predictions  
-- ✅ Easy to understand for 4th semester students
+- ✅ Tailored for Biomedical Engineering 4th semester students
 
 ---
 
@@ -96,4 +96,4 @@ This project is open for educational use only. Not intended for medical decision
 
 ## 🙋‍♂️ Maintainer
 
-Project by a 4th semester engineering student exploring biomedical applications of machine learning in MATLAB.
+A GUI-based MATLAB project developed by me for Biomedical Engineering students to understand and implement disease prediction using machine learning techniques.
