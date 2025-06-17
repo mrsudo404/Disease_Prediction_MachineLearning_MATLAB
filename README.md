@@ -96,4 +96,4 @@ This project is open for educational use only. Not intended for medical decision
 
 ## 🙋‍♂️ Maintainer
 
-A GUI-based MATLAB project developed by me for Biomedical Engineering students to understand and implement disease prediction using machine learning techniques.
+A GUI-based MATLAB project developed by me for BS Biomedical Technology Engineering students to understand and implement disease prediction using machine learning techniques.
